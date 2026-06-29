@@ -1,6 +1,0 @@
-AS-45-89-AA;Cadilac;Escaldante;2026;true;false;
-WQ-85-65-EW;QQ-45-96-DS;Bens;2014;true;false;
-FA-65-98-QA;Ferrari;1AFE44;2145;true;false;
-DE-65-67-QW;Huiday;Asl54;2451;true;false;
-QW-95-33-ES;KIA;AW458;2021;true;false;
-FS-69-31-CX;Cadilac;Escaldante 600;2014;false;false;002970080LA046

@@ -1,3 +1,0 @@
-Estefani Goulão;26;002970080LA046;Rua 14;936108745;true
-Josemar Chipandeca;24;142658045LD046;Rua Kilamba;965847785;false
-Jorge Veloso;22;003250084LA041;Kilamba;965478214;false
